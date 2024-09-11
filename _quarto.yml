@@ -1,7 +1,6 @@
 project:
   type: website
   output-dir: docs
-  author: "Daoming Liu"
 
 website:
   title: "Construction in Progress"
