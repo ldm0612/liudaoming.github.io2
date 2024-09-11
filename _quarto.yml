@@ -1,9 +1,10 @@
 project:
   type: website
   output-dir: docs
+  author: "Daoming Liu"
 
 website:
-  title: "DSCI 521 website"
+  title: "Construction in Progress"
   navbar:
     left:
       - href: index.qmd
